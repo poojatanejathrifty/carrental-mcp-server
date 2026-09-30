@@ -1,0 +1,10 @@
+bin/
+obj/
+publish/
+*.user
+.vs/
+
+# Per-developer local secrets - real credentials live here, never committed.
+# Each dev copies appsettings.Development.json.example -> appsettings.Development.json
+# and fills in their own connection string.
+appsettings.Development.json

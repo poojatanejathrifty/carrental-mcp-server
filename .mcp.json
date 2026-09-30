@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "carrental": {
+      "command": "C:\\PoojaWorkSpace\\VSMCPServer\\publish\\CarRental.MCP\\CarRental.MCP.exe",
+      "args": [],
+      "env": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
